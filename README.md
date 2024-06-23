@@ -1,1 +1,1 @@
-This is github demo repository.<br/>
+This is github demo repo.<br/>
